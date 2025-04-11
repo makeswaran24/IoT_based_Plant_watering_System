@@ -1,0 +1,26 @@
+PROJECT 
+IoT Based Plant Watering System 
+Project by: MAKESWARAN K, KPR INSTITUTE OF ENGINEERING AND TECHNOLOGY 
+Guided by : Dr.Prasad Joshee & Dr.Jaikumar 
+
+OBJECTIVE OF OUR PROJECT
+To  develop  a  smart  irrigation  system  that  optimizes  water  usage  by intelligently monitoring and regulating soil moisture levels,
+thereby reducing water wastage and ensuring efficient water management for crop cultivation
+
+METHODOLOGY
+STEP 1:	Based on requirement of the society identify the type of plant.
+STEP 2:	Collect data from plant.
+STEP 3:	Transfer data to NodeMCU board.
+STEP 4:	Write Arduino code for target application.
+STEP 5:	Interface Arduino with Blynk application.
+STEP 6:	Automatically the relay get turn on or off based on the notification
+
+PROTOTYPE MODEL
+Sensors Used: Rain drop, temperature, and soil moisture sensors monitor
+conditions.
+Data Display: Sensor readings are shown in the Serial Monitor for real-
+time tracking.
+Relay	Control:	Future	work	includes	adding	a	relay	to	automate	motor
+control for irrigation.
+IoT Upgrade:	Integration with cloud will enable remote monitoring and control via smartphones.
+Efficient Irrigation: Ensures water is used only when necessary, reducing wastage
